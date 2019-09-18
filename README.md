@@ -1,2 +1,23 @@
-# A03
-IS117 A03
+GIT: 
+
+GITHUB: 
+
+Repository: 
+
+Clone: 
+
+Commit: 
+
+Push: 
+
+Pull: 
+
+Branch: 
+
+Merge: 
+
+Merge Conflict: 
+
+Fetch: 
+
+Remote: 
